@@ -23,6 +23,7 @@
 		0D0940FE1E9B848200062BCB /* Teacher+CoreDataClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D0940F51E9B848200062BCB /* Teacher+CoreDataClass.m */; };
 		0D0940FF1E9B848200062BCB /* Teacher+CoreDataProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D0940F71E9B848200062BCB /* Teacher+CoreDataProperties.m */; };
 		0D0941021E9B873900062BCB /* CollegeManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D0941011E9B873900062BCB /* CollegeManager.m */; };
+		0D7213FA1E9DC32700D4B639 /* kkkkkkkkkk.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D7213F91E9DC32700D4B639 /* kkkkkkkkkk.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,6 +56,8 @@
 		0D0940F71E9B848200062BCB /* Teacher+CoreDataProperties.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Teacher+CoreDataProperties.m"; sourceTree = "<group>"; };
 		0D0941001E9B873900062BCB /* CollegeManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollegeManager.h; sourceTree = "<group>"; };
 		0D0941011E9B873900062BCB /* CollegeManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollegeManager.m; sourceTree = "<group>"; };
+		0D7213F81E9DC32700D4B639 /* kkkkkkkkkk.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = kkkkkkkkkk.h; sourceTree = "<group>"; };
+		0D7213F91E9DC32700D4B639 /* kkkkkkkkkk.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = kkkkkkkkkk.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +118,8 @@
 				0D0940DD1E9B7CFA00062BCB /* Info.plist */,
 				0D0940D51E9B7CFA00062BCB /* versionRollback.xcdatamodeld */,
 				0D0940C91E9B7CFA00062BCB /* Supporting Files */,
+				0D7213F81E9DC32700D4B639 /* kkkkkkkkkk.h */,
+				0D7213F91E9DC32700D4B639 /* kkkkkkkkkk.m */,
 			);
 			path = versionRollback;
 			sourceTree = "<group>";
@@ -200,6 +205,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0D0940FA1E9B848200062BCB /* Student+CoreDataClass.m in Sources */,
+				0D7213FA1E9DC32700D4B639 /* kkkkkkkkkk.m in Sources */,
 				0D0940FB1E9B848200062BCB /* Student+CoreDataProperties.m in Sources */,
 				0D0940FF1E9B848200062BCB /* Teacher+CoreDataProperties.m in Sources */,
 				0D0940FD1E9B848200062BCB /* MyClass+CoreDataProperties.m in Sources */,
@@ -370,6 +376,7 @@
 				0D0940E21E9B7CFA00062BCB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
